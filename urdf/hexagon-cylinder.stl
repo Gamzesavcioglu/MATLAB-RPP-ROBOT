@@ -1,0 +1,170 @@
+solid Hexagon cylinder
+  facet normal 0.866019052628739 0.5000110003630133 -9.868866225224442e-17
+    outer loop
+      vertex 3 1.2990000247955322 3
+      vertex 3 1.299000024795532 0
+      vertex 2.25 2.598000024795532 0
+    endloop
+  endfacet
+  facet normal 0.8660190526287391 0.5000110003630134 0
+    outer loop
+      vertex 3 1.2990000247955322 3
+      vertex 2.25 2.598000024795532 0
+      vertex 2.25 2.598000024795532 3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 2.25 2.598000024795532 3
+      vertex 2.25 2.598000024795532 0
+      vertex 0.7500000000000001 2.598000024795532 0
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex 2.25 2.598000024795532 3
+      vertex 0.7500000000000001 2.598000024795532 0
+      vertex 0.7500000000000001 2.598000024795532 3
+    endloop
+  endfacet
+  facet normal -0.8660190526287389 0.5000110003630134 0
+    outer loop
+      vertex 0.7500000000000001 2.598000024795532 3
+      vertex 0.7500000000000001 2.598000024795532 0
+      vertex 0 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal -0.866019052628739 0.5000110003630135 0
+    outer loop
+      vertex 0.7500000000000001 2.598000024795532 3
+      vertex 0 1.2990000247955322 0
+      vertex 0 1.2990000247955324 3
+    endloop
+  endfacet
+  facet normal -0.866019052628739 -0.5000110003630133 2.467216556306111e-17
+    outer loop
+      vertex 0 1.2990000247955324 3
+      vertex 0 1.2990000247955322 0
+      vertex 0.7499999999999999 2.479553229406406e-8 0
+    endloop
+  endfacet
+  facet normal -0.866019052628739 -0.5000110003630132 0
+    outer loop
+      vertex 0 1.2990000247955324 3
+      vertex 0.7499999999999999 2.479553229406406e-8 0
+      vertex 0.7499999999999999 2.479553229406406e-8 3
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 0.7499999999999999 2.479553229406406e-8 3
+      vertex 0.7499999999999999 2.479553229406406e-8 0
+      vertex 2.25 2.479553229406406e-8 0
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex 0.7499999999999999 2.479553229406406e-8 3
+      vertex 2.25 2.479553229406406e-8 0
+      vertex 2.25 2.479553229406406e-8 3
+    endloop
+  endfacet
+  facet normal 0.866019052628739 -0.5000110003630134 0
+    outer loop
+      vertex 2.25 2.479553229406406e-8 3
+      vertex 2.25 2.479553229406406e-8 0
+      vertex 3 1.299000024795532 0
+    endloop
+  endfacet
+  facet normal 0.866019052628739 -0.5000110003630134 2.467216556306111e-17
+    outer loop
+      vertex 2.25 2.479553229406406e-8 3
+      vertex 3 1.299000024795532 0
+      vertex 3 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 3 1.2990000247955322 3
+      vertex 2.25 2.598000024795532 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 2.25 2.598000024795532 3
+      vertex 0.7500000000000001 2.598000024795532 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 4.558267486272134e-16 0 1
+    outer loop
+      vertex 0.7500000000000001 2.598000024795532 3
+      vertex 0 1.2990000247955324 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal -2.2791337431360673e-16 0 1
+    outer loop
+      vertex 0 1.2990000247955324 3
+      vertex 0.7499999999999999 2.479553229406406e-8 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 0.7499999999999999 2.479553229406406e-8 3
+      vertex 2.25 2.479553229406406e-8 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 0 0 1
+    outer loop
+      vertex 2.25 2.479553229406406e-8 3
+      vertex 3 1.2990000247955322 3
+      vertex 1.5 1.2990000247955322 3
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2.25 2.598000024795532 0
+      vertex 3 1.299000024795532 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 0.7500000000000001 2.598000024795532 0
+      vertex 2.25 2.598000024795532 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 0 1.2990000247955322 0
+      vertex 0.7500000000000001 2.598000024795532 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal 0 0 -0.9999999999999999
+    outer loop
+      vertex 0.7499999999999999 2.479553229406406e-8 0
+      vertex 0 1.2990000247955322 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 2.25 2.479553229406406e-8 0
+      vertex 0.7499999999999999 2.479553229406406e-8 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex 3 1.299000024795532 0
+      vertex 2.25 2.479553229406406e-8 0
+      vertex 1.5 1.2990000247955322 0
+    endloop
+  endfacet
+endsolid Hexagon cylinder
